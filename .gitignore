@@ -1,0 +1,26 @@
+# Exclude everything
+/*
+
+# Include specifically
+
+## Editorconfig
+!.editorconfig
+
+## Important Git files
+!.gitmodules
+!.gitignore
+!.gitattributes
+!.git-blame-ignore-rev
+
+## GitHub specific
+!.github/
+
+## Markdowns
+!LICENSE
+!*.md
+
+## PDFs
+!*.pdf
+
+## Assets
+!/assets
